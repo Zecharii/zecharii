@@ -22,5 +22,6 @@
 - [WhatsApp](https://wa.me/2347067680893)
 ---
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=zecharii&exclude_days=Sun%2CSat&background=EBEBE9)](https://git.io/streak-stats)
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zecharii)](https://git.io/streak-stats)
+<img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zecharii"/>
+<img height="200em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zecharii&theme=github"/>
