@@ -19,7 +19,7 @@
 ## Connect with me <br>
 - [LinkedIn](https://www.linkedin.com/in/zechariahgaiya/)
 - [Twitter](https://twitter.com/GA_Zechariah)
+- [WhatsApp](https://wa.me/2347067680893)
 ---
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=zecharii&exclude_days=Sun%2CSat&background=EBEBE9)](https://git.io/streak-stats)
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=zecharii&exclude_days=Sun%2CSat&background=EBEBE9" alt="GitHub Streak" /></a>
