@@ -23,3 +23,4 @@
 ---
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=zecharii&exclude_days=Sun%2CSat&background=EBEBE9)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=zecharii)](https://git.io/streak-stats)
